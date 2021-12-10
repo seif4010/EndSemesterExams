@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623312723138",
+    "project_id": "endsemesterexams-2634c",
+    "storage_bucket": "endsemesterexams-2634c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623312723138:android:8ef37ea85ae6acbfdeaf5b",
+        "android_client_info": {
+          "package_name": "com.example.endsemesterexams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623312723138-ekj89igsu3ko1nl3ubtsd8kfa9m6l91q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwp54GsYcUBQ0B2YnCAM30n0-_o5JFlBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623312723138-ekj89igsu3ko1nl3ubtsd8kfa9m6l91q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
